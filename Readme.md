@@ -1,4 +1,4 @@
-#Rae Video Player 
+#Rae Video Player    
 基于[ijkPlayer](https://github.com/Bilibili/ijkplayer)的开源Android播放器,可自定义UI样式,播放速度流畅,支持广泛的视频格式。
 
 # 开始集成
